@@ -186,7 +186,7 @@
 
 (function() {
     var KEY = 'keepaliveAudioEnabled';
-    var SRC = 'https://img.heliar.top/file/1772885159972_silence.m4a';
+    var SRC = 'https://raw.githubusercontent.com/luoluodabuguo/ZY/9711bfdb529381f406d0e8310a2f1d5687fb9ce0/milkhoutaibaohuo.m4a';
     var _audio = null;
     var _unlockBound = false;
 

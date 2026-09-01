@@ -194,7 +194,8 @@
 
     function _createAudio() {
         if (_audio) return _audio;
-        _audio = new Audio(SRC);
+        _audio = new Audio( milkhoutaibaohuo
+                          .m4a);
         _audio.loop   = true;
         _audio.volume = 0.01;
         _audio.preload = 'auto';
